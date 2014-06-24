@@ -1,0 +1,5 @@
+//какого хера есть ещё func?
+function => nrel_main_idtf:
+     [функция] (* <- lang_ru;; *);;
+function => nrel_main_idtf:
+     [function] (* <- lang_en;; *);;
