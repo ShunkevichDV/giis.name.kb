@@ -1,0 +1,7 @@
+liquid => nrel_main_idtf: 
+	[жидкость] (* <- lang_ru;; *);;
+liquid => nrel_main_idtf: 
+	[liquid] (* <- lang_en;; *);;
+
+liquid <- substance;;
+liquid <- aggregate_state;;

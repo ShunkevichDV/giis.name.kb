@@ -1,0 +1,4 @@
+obscure_word => nrel_main_idtf:
+     [непонятное слово] (* <- lang_ru;; *);;
+obscure_word => nrel_main_idtf:
+     [obscure word] (* <- lang_en;; *);;

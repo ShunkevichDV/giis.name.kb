@@ -1,0 +1,6 @@
+prokaryotes => nrel_main_idtf: 
+	[прокариот] (* <- lang_ru;; *);;
+prokaryotes => nrel_main_idtf: 
+	[prokaryotes] (* <- lang_en;; *);;
+
+prokaryotes <- living_organism;;

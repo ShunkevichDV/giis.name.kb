@@ -1,0 +1,6 @@
+mouth => nrel_main_idtf: [рот] (* <- lang_ru;; *);;
+
+mouth => nrel_main_idtf: 
+	[mouth] (* <- lang_en;; *);;
+mouth => nrel_have: 
+	teeth ;;

@@ -1,0 +1,6 @@
+lion => nrel_main_idtf: 
+	[лев] (* <- lang_ru;; *);;
+lion => nrel_main_idtf: 
+	[lion] (* <- lang_en;; *);;
+
+lion <- catlike;;

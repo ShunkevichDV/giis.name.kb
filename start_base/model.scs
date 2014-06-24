@@ -1,0 +1,5 @@
+model => nrel_main_idtf: 
+  [модель] (* <- lang_ru;; *);;
+model => nrel_main_idtf: 
+  [model] (* <- lang_en;; *);;
+model <- information;;

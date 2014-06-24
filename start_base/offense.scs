@@ -1,0 +1,6 @@
+offense => nrel_main_idtf: 
+	[обида] (* <- lang_ru;; *);;
+offense => nrel_main_idtf: 
+	[offense] (* <- lang_en;; *);;
+
+offense <- emotion;;

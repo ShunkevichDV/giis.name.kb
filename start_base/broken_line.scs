@@ -1,0 +1,5 @@
+broken_line <- line;;
+broken_line => nrel_main_idtf:
+     [ломаная] (* <- lang_ru;; *);;
+broken_line => nrel_main_idtf:
+     [broken line] (* <- lang_en;; *);;

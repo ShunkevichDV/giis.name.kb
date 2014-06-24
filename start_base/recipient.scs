@@ -1,0 +1,6 @@
+recipient => nrel_main_idtf: 
+	[получатель] (* <- lang_ru;; *);;
+recipient => nrel_main_idtf: 
+	[recipient] (* <- lang_en;; *);;
+
+recipient <- destination;;

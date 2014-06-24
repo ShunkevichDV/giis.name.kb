@@ -1,0 +1,5 @@
+paw => nrel_main_idtf: [лапа] (* <- lang_ru;; *);;
+
+paw => nrel_main_idtf: 
+	[paw] (* <- lang_en;; *);;
+paw <- leg;;

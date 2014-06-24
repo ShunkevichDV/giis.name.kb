@@ -1,0 +1,5 @@
+asian <- human;;
+asian => nrel_main_idtf: 
+	[азиат] (* <- lang_ru;; *);;
+asian => nrel_main_idtf: 
+	[asian] (* <- lang_en;; *);;

@@ -1,0 +1,6 @@
+subatomic_particle => nrel_main_idtf: 
+	[субатомная частица] (* <- lang_ru;; *);;
+subatomic_particle => nrel_main_idtf: 
+	[subatomic particle] (* <- lang_en;; *);;
+
+subatomic_particle <- micro_body;;

@@ -1,0 +1,13 @@
+coelenterates => nrel_main_idtf: 
+	[кишечнополостное] (* <- lang_ru;; *);;
+coelenterates => nrel_main_idtf: 
+	[coelenterates] (* <- lang_en;; *);;
+
+coelenterates <- flagellar;;
+
+coelenterates => nrel_have: 
+	head ;;
+coelenterates => nrel_have: 
+	blood ;;
+coelenterates => nrel_have: 
+	trunk ;;

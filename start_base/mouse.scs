@@ -1,0 +1,7 @@
+mouse => nrel_main_idtf: 
+	[мышь] (* <- lang_ru;; *);;
+
+mouse => nrel_main_idtf: 
+	[mouse] (* <- lang_en;; *);;
+mouse <- rodent;;
+

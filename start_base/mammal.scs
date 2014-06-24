@@ -1,0 +1,5 @@
+mammal <- primitive_mammal;;
+mammal => nrel_main_idtf: 
+	[млекопитающее] (* <- lang_ru;; *);;
+mammal => nrel_main_idtf: 
+	[mammal] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+property => nrel_main_idtf: 
+  [свойство] (* <- lang_ru;; *);;
+property => nrel_main_idtf: 
+  [property] (* <- lang_en;; *);;
+property <- information;;

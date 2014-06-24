@@ -1,0 +1,5 @@
+automate <- model;;
+automate => nrel_main_idtf:
+     [автомат] (* <- lang_ru;; *);;
+automate => nrel_main_idtf:
+     [automate] (* <- lang_en;; *);;

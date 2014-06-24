@@ -1,0 +1,5 @@
+black <- color;;
+black => nrel_main_idtf:
+     [черный] (* <- lang_ru;; *);;
+black => nrel_main_idtf:
+     [black] (* <- lang_en;; *);;

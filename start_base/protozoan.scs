@@ -1,0 +1,6 @@
+protozoan => nrel_main_idtf: 
+	[простейшие] (* <- lang_ru;; *);;
+protozoan => nrel_main_idtf: 
+	[protozoan] (* <- lang_en;; *);;
+
+protozoan <- animal;;

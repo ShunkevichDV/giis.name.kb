@@ -1,0 +1,5 @@
+white <- color;;
+white => nrel_main_idtf:
+     [белый] (* <- lang_ru;; *);;
+white => nrel_main_idtf:
+     [white] (* <- lang_en;; *);;

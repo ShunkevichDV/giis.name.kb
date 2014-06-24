@@ -1,0 +1,5 @@
+hominid <- primate;;
+hominid => nrel_main_idtf: 
+	[гоминида] (* <- lang_ru;; *);;
+hominid => nrel_main_idtf: 
+	[hominid] (* <- lang_en;; *);;

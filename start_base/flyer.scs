@@ -1,0 +1,5 @@
+flyer <- transport;;
+flyer => nrel_main_idtf:
+     [летательный аппарат] (* <- lang_ru;; *);;
+flyer => nrel_main_idtf:
+     [flyer] (* <- lang_en;; *);;

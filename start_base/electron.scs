@@ -1,0 +1,6 @@
+electron => nrel_main_idtf: 
+	[электрон] (* <- lang_ru;; *);;
+electron => nrel_main_idtf: 
+	[electron] (* <- lang_en;; *);;
+
+electron <- atom;;

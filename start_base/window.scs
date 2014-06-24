@@ -1,0 +1,4 @@
+window => nrel_main_idtf: 
+	[окно] (* <- lang_ru;; *);;
+window => nrel_main_idtf: 
+	[window] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+vacuum => nrel_main_idtf: 
+  [вакуум] (* <- lang_ru;; *);;
+vacuum => nrel_main_idtf: 
+  [vacuum] (* <- lang_en;; *);;
+vacuum <- material_object;;

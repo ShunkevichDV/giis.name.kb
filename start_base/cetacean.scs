@@ -1,0 +1,7 @@
+cetacean <- mammal;;
+cetacean => nrel_main_idtf: 
+	[китообразное] (* <- lang_ru;; *);;
+cetacean => nrel_main_idtf: 
+	[cetacean] (* <- lang_en;; *);;
+cetacean => nrel_inhabits: 
+	water ;;

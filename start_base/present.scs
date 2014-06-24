@@ -1,0 +1,6 @@
+present => nrel_main_idtf: 
+  [настоящее] (* <- lang_ru;; *);;
+present => nrel_main_idtf: 
+  [present] (* <- lang_en;; *);;
+present <- time;;
+present <- value;;

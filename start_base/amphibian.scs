@@ -1,0 +1,9 @@
+amphibian => nrel_main_idtf: 
+	[амфибия] (* <- lang_ru;; *);;
+amphibian => nrel_main_idtf: 
+	[amphibian] (* <- lang_en;; *);;
+
+amphibian <- elasmobranchs;;
+sc_node_norole_relation->  nrel_inhabit;;
+amphibian => nrel_inhabit: 
+	land ;;

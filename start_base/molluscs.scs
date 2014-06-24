@@ -1,0 +1,6 @@
+molluscs => nrel_main_idtf: 
+	[малюск] (* <- lang_ru;; *);;
+molluscs => nrel_main_idtf: 
+	[molluscs] (* <- lang_en;; *);;
+
+molluscs <- coelenterates;;

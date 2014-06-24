@@ -1,0 +1,5 @@
+information => nrel_main_idtf: 
+  [информация] (* <- lang_ru;; *);;
+information => nrel_main_idtf: 
+  [information] (* <- lang_en;; *);;
+information <- universe;;

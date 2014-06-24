@@ -1,0 +1,5 @@
+house <- building;;
+house => nrel_main_idtf:
+     [дом] (* <- lang_ru;; *);;
+house => nrel_main_idtf:
+     [house] (* <- lang_en;; *);;

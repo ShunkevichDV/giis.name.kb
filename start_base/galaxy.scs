@@ -1,0 +1,5 @@
+galaxy <- object;;
+galaxy => nrel_main_idtf: 
+	[галактика] (* <- lang_ru;; *);;
+galaxy => nrel_main_idtf: 
+	[galaxy] (* <- lang_en;; *);;

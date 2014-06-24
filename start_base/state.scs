@@ -1,0 +1,5 @@
+state => nrel_main_idtf: [государство] (* <- lang_ru;; *);;
+
+state => nrel_main_idtf: 
+	[state] (* <- lang_en;; *);;
+state <- society;;

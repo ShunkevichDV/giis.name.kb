@@ -1,0 +1,6 @@
+anger => nrel_main_idtf: 
+	[гнев] (* <- lang_ru;; *);;
+anger => nrel_main_idtf: 
+	[anger] (* <- lang_en;; *);;
+
+anger <- emotion;;

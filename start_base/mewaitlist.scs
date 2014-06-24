@@ -1,0 +1,6 @@
+//русский идентификатор *ня полная
+mewaitlist <- task;;
+mewaitlist => nrel_main_idtf:
+     [mewaitlist] (* <- lang_ru;; *);;
+mewaitlist => nrel_main_idtf:
+     [mewaitlist] (* <- lang_en;; *);;

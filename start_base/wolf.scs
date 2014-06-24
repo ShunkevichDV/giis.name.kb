@@ -1,0 +1,5 @@
+wolf => nrel_main_idtf: [волк] (* <- lang_ru;; *);;
+
+wolf => nrel_main_idtf: [wolf] (* <- lang_en;; *);;
+
+wolf <- canidae;;

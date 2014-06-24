@@ -1,0 +1,6 @@
+sponge => nrel_main_idtf: 
+	[губка] (* <- lang_ru;; *);;
+sponge => nrel_main_idtf: 
+	[sponge] (* <- lang_en;; *);;
+
+sponge <- flagellar;;

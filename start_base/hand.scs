@@ -1,0 +1,5 @@
+hand => nrel_main_idtf: [рука] (* <- lang_ru;; *);;
+
+hand => nrel_main_idtf: 
+	[hand] (* <- lang_en;; *);;
+hand <- limb;;

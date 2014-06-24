@@ -1,0 +1,5 @@
+church <- building;;
+church => nrel_main_idtf:
+     [храм] (* <- lang_ru;; *);;
+church => nrel_main_idtf:
+     [church] (* <- lang_en;; *);;

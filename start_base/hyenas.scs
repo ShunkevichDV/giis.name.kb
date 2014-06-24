@@ -1,0 +1,5 @@
+hyenas <- predator;;
+hyenas => nrel_main_idtf: 
+	[гиеновое] (* <- lang_ru;; *);;
+hyenas => nrel_main_idtf: 
+	[hyenas] (* <- lang_en;; *);;

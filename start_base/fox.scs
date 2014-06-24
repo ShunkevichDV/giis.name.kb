@@ -1,0 +1,6 @@
+fox => nrel_main_idtf: [лисица] (* <- lang_ru;; *);;
+
+fox => nrel_main_idtf: 
+	[fox] (* <- lang_en;; *);;
+
+fox <- canidae;;

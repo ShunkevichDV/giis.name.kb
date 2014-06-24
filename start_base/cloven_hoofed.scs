@@ -1,0 +1,5 @@
+cloven_hoofed <- hoofed;;
+cloven_hoofed => nrel_main_idtf: 
+	[парнокопытное] (* <- lang_ru;; *);;
+cloven_hoofed => nrel_main_idtf: 
+	[cloven hoofed] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+field => nrel_main_idtf: 
+  [поле] (* <- lang_ru;; *);;
+field => nrel_main_idtf: 
+  [field] (* <- lang_en;; *);;
+field <- material_object;;

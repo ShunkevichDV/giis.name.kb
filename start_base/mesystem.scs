@@ -1,0 +1,5 @@
+mesystem <- task;;
+mesystem => nrel_main_idtf:
+     [mesystem] (* <- lang_ru;; *);;
+mesystem => nrel_main_idtf:
+     [mesystem] (* <- lang_en;; *);;

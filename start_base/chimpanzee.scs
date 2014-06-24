@@ -1,0 +1,6 @@
+chimpanzee => nrel_main_idtf: [шимпанзе] (* <- lang_ru;; *);;
+
+chimpanzee => nrel_main_idtf: 
+	[chimpanzee] (* <- lang_en;; *);;
+chimpanzee <- primate;;
+

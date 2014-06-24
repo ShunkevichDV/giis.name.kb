@@ -1,0 +1,8 @@
+subject => nrel_main_idtf: 
+	[субъект] (* <- lang_ru;; *);;
+subject => nrel_main_idtf: 
+	[subject] (* <- lang_en;; *);;
+
+subject <- object;;
+
+subject <- target;;

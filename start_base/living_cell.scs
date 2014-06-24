@@ -1,0 +1,5 @@
+living_cell <- prokaryote;;
+living_cell => nrel_main_idtf:
+     [живая клетка] (* <- lang_ru;; *);;
+living_cell => nrel_main_idtf:
+     [living cell] (* <- lang_en;; *);;

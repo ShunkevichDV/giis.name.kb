@@ -1,0 +1,5 @@
+canidae <- predator;;
+canidae => nrel_main_idtf: 
+	[псовое] (* <- lang_ru;; *);;
+canidae => nrel_main_idtf: 
+	[canidae] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+polygon <- flat;;
+polygon => nrel_main_idtf:
+     [многоугольник] (* <- lang_ru;; *);;
+polygon => nrel_main_idtf:
+     [polygon] (* <- lang_en;; *);;

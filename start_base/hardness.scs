@@ -1,0 +1,4 @@
+hardness => nrel_main_idtf:
+     [твердость] (* <- lang_ru;; *);;
+hardness => nrel_main_idtf:
+     [hardness] (* <- lang_en;; *);;

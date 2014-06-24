@@ -1,0 +1,6 @@
+sc_node_norole_relation -> nrel_change;;
+nrel_change => nrel_main_idtf: 
+  [изменение] (* <- lang_ru;; *);;
+nrel_change => nrel_main_idtf: 
+  [change] (* <- lang_en;; *);;
+nrel_change <- relation;;

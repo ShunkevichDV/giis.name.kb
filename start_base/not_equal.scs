@@ -1,0 +1,8 @@
+//????????????????????
+//хз что тут. это не моё
+sc_node_norole_relation -> nrel_not_equal;;
+nrel_not_equal => nrel_main_ru_idtf: 
+  [не равно];;
+nrel_not_equal => nrel_main_en_idtf: 
+  [not equal];;
+nrel_not_equal => nrel_reverse: nrel_equal;;

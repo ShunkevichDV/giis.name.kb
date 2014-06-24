@@ -1,0 +1,6 @@
+society => nrel_main_idtf: [общество] (* <- lang_ru;; *);;
+
+society => nrel_main_idtf: 
+	[society] (* <- lang_en;; *);;
+society <- civilization;;
+

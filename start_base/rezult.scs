@@ -1,0 +1,6 @@
+rezult => nrel_main_idtf: 
+	[символ] (* <- lang_ru;; *);;
+rezult => nrel_main_idtf: 
+	[rezult] (* <- lang_en;; *);;
+
+rezult <- symbol;;

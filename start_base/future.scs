@@ -1,0 +1,6 @@
+future => nrel_main_idtf: 
+  [пространство] (* <- lang_ru;; *);;
+future => nrel_main_idtf: 
+  [future] (* <- lang_en;; *);;
+future <- time;;
+future <- end_point;;

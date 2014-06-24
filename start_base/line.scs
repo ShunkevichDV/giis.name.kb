@@ -1,0 +1,5 @@
+line <- flat;;
+line => nrel_main_idtf:
+     [линия] (* <- lang_ru;; *);;
+line => nrel_main_idtf:
+     [line] (* <- lang_en;; *);;

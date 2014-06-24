@@ -1,0 +1,5 @@
+dark_blue <- color;;
+dark_blue => nrel_main_idtf:
+     [синий] (* <- lang_ru;; *);;
+dark_blue => nrel_main_idtf:
+     [dark blue] (* <- lang_en;; *);;

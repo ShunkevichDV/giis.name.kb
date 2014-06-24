@@ -1,0 +1,6 @@
+proton => nrel_main_idtf: 
+	[протон] (* <- lang_ru;; *);;
+proton => nrel_main_idtf: 
+	[proton] (* <- lang_en;; *);;
+
+proton <- atom;;

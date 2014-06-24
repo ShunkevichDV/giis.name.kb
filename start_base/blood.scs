@@ -1,0 +1,5 @@
+blood => nrel_main_idtf: [кровь] (* <- lang_ru;; *);;
+
+blood => nrel_main_idtf: 
+	[blood] (* <- lang_en;; *);;
+blood <- organ;;

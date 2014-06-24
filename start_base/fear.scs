@@ -1,0 +1,7 @@
+fear => nrel_main_idtf: 
+	[страх] (* <- lang_ru;; *);;
+fear => nrel_main_en_idtf: 
+	[fear] (* <- lang_en;; *);;
+
+fear <- emotion;;
+fear <- self_preservation;;

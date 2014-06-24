@@ -1,0 +1,7 @@
+quality => nrel_main_idtf: 
+	[качество] (* <- lang_ru;; *);;
+quality => nrel_main_idtf: 
+	[quality] (* <- lang_en;; *);;
+
+quality <- value;;
+quality <- rezult;;

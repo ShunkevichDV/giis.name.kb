@@ -1,0 +1,5 @@
+plumage => nrel_main_idtf: [перья] (* <- lang_ru;; *);;
+
+plumage => nrel_main_idtf: 
+	[plumage] (* <- lang_en;; *);;
+plumage <- hair;;

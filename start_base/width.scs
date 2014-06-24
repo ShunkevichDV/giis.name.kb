@@ -1,0 +1,5 @@
+width <- size;;
+width => nrel_main_idtf:
+     [ширина] (* <- lang_ru;; *);;
+width => nrel_main_idtf:
+     [width] (* <- lang_en;; *);;

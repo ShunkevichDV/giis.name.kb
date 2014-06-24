@@ -1,0 +1,6 @@
+atom => nrel_main_idtf: 
+	[атом] (* <- lang_ru;; *);;
+atom => nrel_main_idtf: 
+	[atom] (* <- lang_en;; *);;
+
+atom <- micro_body;;

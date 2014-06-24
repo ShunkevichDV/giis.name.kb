@@ -1,0 +1,5 @@
+artificial_intelligence <- automate;;
+artificial_intelligence => nrel_main_idtf:
+     [искусственный интеллект] (* <- lang_ru;; *);;
+artificial_intelligence => nrel_main_idtf:
+     [artificial intelligence] (* <- lang_en;; *);;

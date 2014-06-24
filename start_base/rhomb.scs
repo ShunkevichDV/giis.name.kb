@@ -1,0 +1,5 @@
+rhomb <- rectangle;;
+rhomb => nrel_main_idtf:
+     [ромб] (* <- lang_ru;; *);;
+rhomb => nrel_main_idtf:
+     [rhomb] (* <- lang_en;; *);;

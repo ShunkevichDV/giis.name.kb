@@ -1,0 +1,5 @@
+method => nrel_main_idtf: 
+  [способ] (* <- lang_ru;; *);;
+method => nrel_main_idtf: 
+  [method] (* <- lang_en;; *);;
+method <- action;;

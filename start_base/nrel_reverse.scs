@@ -1,0 +1,6 @@
+sc_node_norole_relation -> nrel_reverse;;
+nrel_reverse => nrel_main_idtf: 
+  [быть обратным] (* <- lang_ru;; *);;
+nrel_reverse => nrel_main_idtf: 
+  [reverse] (* <- lang_en;; *);;
+nrel_reverse <- relation;;

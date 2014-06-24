@@ -1,0 +1,4 @@
+theorem => nrel_main_idtf:
+     [теорема] (* <- lang_ru;; *);;
+theorem => nrel_main_idtf:
+     [theorem] (* <- lang_en;; *);;

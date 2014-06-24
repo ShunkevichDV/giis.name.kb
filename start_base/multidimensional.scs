@@ -1,0 +1,5 @@
+multidimensional <- shape;;
+multidimensional => nrel_main_idtf:
+     [многомерный] (* <- lang_ru;; *);;
+multidimensional => nrel_main_idtf:
+     [multidimensional] (* <- lang_en;; *);;

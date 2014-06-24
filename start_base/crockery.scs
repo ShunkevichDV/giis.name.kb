@@ -1,0 +1,5 @@
+crockery <- artificial;;
+crockery => nrel_main_idtf: 
+	[посуда] (* <- lang_ru;; *);;
+crockery => nrel_main_idtf: 
+	[crockery] (* <- lang_en;; *);;

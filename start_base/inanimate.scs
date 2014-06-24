@@ -1,0 +1,6 @@
+inanimate => nrel_main_idtf: 
+	[неживой] (* <- lang_ru;; *);;
+inanimate => nrel_main_idtf: 
+	[inanimate] (* <- lang_en;; *);;
+
+inanimate <- solid;;

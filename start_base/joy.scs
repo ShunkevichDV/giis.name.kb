@@ -1,0 +1,7 @@
+joy => nrel_main_idtf: 
+	[радость]  (* <- lang_ru;; *);;
+joy => nrel_main_idtf: 
+	[joy] (* <- lang_en;; *);;
+
+joy <- emotion;;
+joy <- curiosity;;

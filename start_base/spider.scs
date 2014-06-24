@@ -1,0 +1,6 @@
+spider => nrel_main_idtf: 
+	[паук] (* <- lang_ru;; *);;
+spider => nrel_main_idtf: 
+	[spider] (* <- lang_en;; *);;
+
+spider <- arthropod;;

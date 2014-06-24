@@ -1,0 +1,4 @@
+universe => nrel_main_idtf: 
+  [вселенная] (* <- lang_ru;; *);;
+universe => nrel_main_idtf: 
+  [universe] (* <- lang_en;; *);;

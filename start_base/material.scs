@@ -1,0 +1,10 @@
+material <- property;;
+material =>nrel_have: aggregate_state;;
+material =>nrel_have: density;;
+material =>nrel_have: hardness;;
+material =>nrel_have: elasticity;;
+material =>nrel_have: color;;
+material => nrel_main_idtf:
+     [материал] (* <- lang_ru;; *);;
+material => nrel_main_idtf:
+     [material] (* <- lang_en;; *);;

@@ -1,0 +1,7 @@
+contractor => nrel_main_idtf: 
+	[контрагент] (* <- lang_ru;; *);;
+contractor => nrel_main_idtf: 
+	[contractor] (* <- lang_en;; *);;
+
+contractor <- object;;
+contractor <- value;;

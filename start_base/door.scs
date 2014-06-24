@@ -1,0 +1,4 @@
+door => nrel_main_idtf: 
+	[дверь] (* <- lang_ru;; *);;
+door => nrel_main_idtf: 
+	[door] (* <- lang_en;; *);;

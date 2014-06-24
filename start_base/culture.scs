@@ -1,0 +1,7 @@
+culture => nrel_main_idtf:
+	[культура] (* <- lang_ru;; *);;
+
+culture => nrel_main_idtf: 
+	[culture] (* <- lang_en;; *);;
+culture <- civilization;;
+

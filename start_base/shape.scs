@@ -1,0 +1,5 @@
+shape <- property;;
+shape => nrel_main_idtf:
+     [форма] (* <- lang_ru;; *);;
+shape => nrel_main_idtf:
+     [shape] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+yellow <- color;;
+yellow => nrel_main_ru_idtf:
+     [жёлтый];;
+yellow => nrel_main_en_idtf:
+     [yellow];;

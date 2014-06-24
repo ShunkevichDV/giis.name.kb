@@ -1,0 +1,6 @@
+flagellar => nrel_main_idtf: 
+	[жгутиковое] (* <- lang_ru;; *);;
+flagellar => nrel_main_idtf: 
+	[flagellar] (* <- lang_en;; *);;
+
+flagellar <- animal;;

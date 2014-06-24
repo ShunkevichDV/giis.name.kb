@@ -1,0 +1,4 @@
+woof => nrel_main_idtf: [гав] (* <- lang_ru;; *);;
+
+woof => nrel_main_idtf:	[woof] (* <- lang_en;; *);;
+

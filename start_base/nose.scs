@@ -1,0 +1,4 @@
+nose => nrel_main_idtf: [нос] (* <- lang_ru;; *);;
+
+nose => nrel_main_idtf: 
+	[nose] (* <- lang_en;; *);;

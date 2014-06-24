@@ -1,0 +1,5 @@
+upstream_transport <- transport;;
+upstream_transport => nrel_main_idtf:
+     [верховой транспорт] (* <- lang_ru;; *);;
+upstream_transport => nrel_main_idtf:
+     [upstream transport] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+cube <- volume;;
+cube => nrel_main_idtf:
+     [куб] (* <- lang_ru;; *);;
+cube => nrel_main_idtf:
+     [cube] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+rectangle <- polygon;;
+rectangle => nrel_main_idtf:
+     [прямоугольник] (* <- lang_ru;; *);;
+rectangle => nrel_main_idtf:
+     [rectangle] (* <- lang_en;; *);;

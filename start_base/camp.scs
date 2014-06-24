@@ -1,0 +1,5 @@
+camp <- place;;
+camp => nrel_main_idtf:
+     [лагерь] (* <- lang_ru;; *);;
+camp => nrel_main_idtf:
+     [camp] (* <- lang_en;; *);;

@@ -1,0 +1,6 @@
+animal => nrel_main_idtf: 
+	[животное] (* <- lang_ru;; *);;
+animal => nrel_main_idtf: 
+	[animal] (* <- lang_en;; *);;
+
+animal <- living_organism;;

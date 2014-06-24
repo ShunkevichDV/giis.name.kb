@@ -1,0 +1,6 @@
+krupnorotoe => nrel_main_idtf: 
+	[крупноротое] (* <- lang_ru;; *);;
+krupnorotoe => nrel_main_idtf: 
+	[krupnorotoe] (* <- lang_en;; *);;
+
+krupnorotoe <- coelenterates;;

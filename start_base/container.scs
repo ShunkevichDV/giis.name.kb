@@ -1,0 +1,7 @@
+container => nrel_main_ru_idtf: 
+	[контейнер] ;;
+container => nrel_main_en_idtf: 
+	[container] ;;
+
+container <- space;;
+container <- means;;

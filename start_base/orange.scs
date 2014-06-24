@@ -1,0 +1,5 @@
+orange <- color;;
+orange => nrel_main_idtf:
+     [оранжевый] (* <- lang_ru;; *);;
+orange => nrel_main_idtf:
+     [orange] (* <- lang_en;; *);;

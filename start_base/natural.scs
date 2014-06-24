@@ -1,0 +1,5 @@
+natural <- inanimate;;
+natural => nrel_main_idtf: 
+	[естественный] (* <- lang_ru;; *);;
+natural => nrel_main_idtf: 
+	[natural] (* <- lang_en;; *);;

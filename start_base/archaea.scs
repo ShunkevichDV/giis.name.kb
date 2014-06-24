@@ -1,0 +1,6 @@
+archaea => nrel_main_idtf: 
+	[архебактерия] (* <- lang_ru;; *);;
+archaea => nrel_main_idtf: 
+	[archaea] (* <- lang_en;; *);;
+
+archaea <- living_organism;;

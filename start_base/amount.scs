@@ -1,0 +1,6 @@
+amount => nrel_main_idtf: 
+	[количество] (* <- lang_ru;; *);;
+amount => nrel_main_idtf: 
+	[amount] (* <- lang_en;; *);;
+
+amount <- value;;

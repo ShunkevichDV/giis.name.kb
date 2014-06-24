@@ -1,0 +1,5 @@
+triangle <- polygon;;
+triangle => nrel_main_idtf:
+     [треугольник] (* <- lang_ru;; *);;
+triangle => nrel_main_idtf:
+     [triangle] (* <- lang_en;; *);;

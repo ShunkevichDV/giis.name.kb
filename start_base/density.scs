@@ -1,0 +1,4 @@
+density => nrel_main_idtf:
+     [плотность] (* <- lang_ru;; *);;
+density => nrel_main_idtf:
+     [density] (* <- lang_en;; *);;

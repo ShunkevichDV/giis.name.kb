@@ -1,0 +1,4 @@
+teeth => nrel_main_idtf: [зубы] (* <- lang_ru;; *);;
+
+teeth => nrel_main_idtf: 
+	[teeth] (* <- lang_en;; *);;

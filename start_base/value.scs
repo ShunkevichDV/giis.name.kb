@@ -1,0 +1,5 @@
+value => nrel_main_idtf: 
+  [величина] (* <- lang_ru;; *);;
+value => nrel_main_idtf: 
+  [value] (* <- lang_en;; *);;
+value <- information;;

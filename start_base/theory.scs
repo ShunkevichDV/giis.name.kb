@@ -1,0 +1,5 @@
+theory <- model;;
+theory => nrel_main_idtf:
+     [теория] (* <- lang_ru;; *);;
+theory => nrel_main_idtf:
+     [theory] (* <- lang_en;; *);;

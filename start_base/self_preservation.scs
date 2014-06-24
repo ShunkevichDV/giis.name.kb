@@ -1,0 +1,6 @@
+self_preservation => nrel_main_idtf: 
+	[самосохранение] (* <- lang_ru;; *);;
+self_preservation => nrel_main_idtf: 
+	[self preservation] (* <- lang_en;; *);;
+
+self_preservation <- motive;;

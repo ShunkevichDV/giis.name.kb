@@ -1,0 +1,5 @@
+purple <- color;;
+purple => nrel_main_idtf: 
+	[фиолетовый] (* <- lang_ru;; *);;
+purple => nrel_main_idtf: 
+	[purple] (* <- lang_en;; *);;

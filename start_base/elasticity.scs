@@ -1,0 +1,4 @@
+elasticity => nrel_main_idtf:
+     [упругость] (* <- lang_ru;; *);;
+elasticity => nrel_main_idtf:
+     [elasticity] (* <- lang_en;; *);;

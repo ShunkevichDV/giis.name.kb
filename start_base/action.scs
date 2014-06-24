@@ -1,0 +1,5 @@
+action => nrel_main_idtf: 
+  [действие] (* <- lang_ru;; *);;
+action => nrel_main_idtf: 
+  [action] (* <- lang_en;; *);;
+action <- char;;

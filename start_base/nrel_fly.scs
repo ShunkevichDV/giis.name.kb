@@ -1,0 +1,6 @@
+sc_node_norole_relation -> nrel_fly;;
+nrel_fly => nrel_main_idtf: [летать] (* <- lang_ru;; *);;
+
+nrel_fly => nrel_main_idtf: 
+	[fly] (* <- lang_en;; *);;
+

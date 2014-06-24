@@ -1,0 +1,9 @@
+wall => nrel_main_idtf: 
+	[стена] (* <- lang_ru;; *);;
+wall => nrel_main_idtf: 
+	[wall] (* <- lang_en;; *);;
+
+wall => nrel_have: 
+	window ;;
+wall => nrel_have: 
+	door ;;

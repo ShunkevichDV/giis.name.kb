@@ -1,0 +1,5 @@
+relation => nrel_main_idtf: 
+  [отношение] (* <- lang_ru;; *);;
+relation => nrel_main_idtf: 
+  [relation] (* <- lang_en;; *);;
+relation <- method;;

@@ -1,0 +1,5 @@
+asteroid <- solar_system;;
+asteroid => nrel_main_idtf: 
+	[астероид] (* <- lang_ru;; *);;
+asteroid => nrel_main_idtf: 
+	[asteroid] (* <- lang_en;; *);;

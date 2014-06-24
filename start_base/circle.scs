@@ -1,0 +1,5 @@
+circle <- flat;;
+circle => nrel_main_idtf:
+     [круг] (* <- lang_ru;; *);;
+circle => nrel_main_idtf:
+     [circle] (* <- lang_en;; *);;

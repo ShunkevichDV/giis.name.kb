@@ -1,0 +1,4 @@
+roof => nrel_main_idtf: 
+	[крыша] (* <- lang_ru;; *);;
+roof => nrel_main_idtf: 
+	[roof] (* <- lang_en;; *);;

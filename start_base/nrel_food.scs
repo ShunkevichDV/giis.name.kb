@@ -1,0 +1,4 @@
+nrel_food => nrel_main_idtf: 
+	[пища] (* <- lang_ru;; *);;
+nrel_food => nrel_main_idtf: 
+	[food] (* <- lang_en;; *);;

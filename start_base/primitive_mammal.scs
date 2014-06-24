@@ -1,0 +1,9 @@
+primitive_mammal => nrel_main_idtf: 
+	[примитивное млекопитающее] (* <- lang_ru;; *);;
+primitive_mammal => nrel_main_idtf: 
+	[primitive mammal] (* <- lang_en;; *);;
+
+primitive_mammal <- pelycosaur;;
+
+primitive_mammal => nrel_have: 
+	teeth ;;

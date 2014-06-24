@@ -1,0 +1,8 @@
+dog => nrel_main_idtf: [собака] (* <- lang_ru;; *);;
+
+dog => nrel_main_idtf: 
+	[dog] (* <- lang_en;; *);;
+dog <- canidae;;
+sc_node_norole_relation -> nrel_says;;
+dog => nrel_says: 
+	woof ;;

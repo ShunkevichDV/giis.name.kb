@@ -1,0 +1,7 @@
+destination => nrel_main_idtf: 
+	[адресат] (* <- lang_ru;; *);;
+destination => nrel_main_idtf: 
+	[destination] (* <- lang_en;; *);;
+
+destination <- subject;;
+destination <- end_point;;

@@ -1,0 +1,5 @@
+ellipse <- circle;;
+ellipse => nrel_main_idtf:
+     [эллипс] (* <- lang_ru;; *);;
+ellipse => nrel_main_idtf:
+     [ellipse] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+european <- human;;
+european => nrel_main_idtf: 
+	[европеец] (* <- lang_ru;; *);;
+european => nrel_main_idtf: 
+	[european] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+civilization => nrel_main_idtf: [цивилизация] (* <- lang_ru;; *);;
+
+civilization => nrel_main_idtf: 
+	[civilization] (* <- lang_en;; *);;
+

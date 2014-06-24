@@ -1,0 +1,7 @@
+solid => nrel_main_idtf: 
+	[твердое тело] (* <- lang_ru;; *);;
+solid => nrel_main_idtf: 
+	[solid] (* <- lang_en;; *);;
+
+solid <- substance;;
+solid <- aggregate_state;;

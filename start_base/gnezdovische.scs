@@ -1,0 +1,6 @@
+//транслит не ок. нужно заменить на big_nest или что-то типа того
+big_nest <- place;;
+big_nest => nrel_main_idtf:
+     [гнездовище] (* <- lang_ru;; *);;
+big_nest => nrel_main_idtf:
+     [big_nest] (* <- lang_en;; *);;

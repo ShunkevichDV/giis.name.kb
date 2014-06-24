@@ -1,0 +1,5 @@
+solar_system <- galaxy;;
+solar_system => nrel_main_idtf: 
+	[солнечная_система] (* <- lang_ru;; *);;
+solar_system => nrel_main_idtf: 
+	[solar_system] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+straight <- line;;
+straight => nrel_main_idtf:
+     [прямая] (* <- lang_ru;; *);;
+straight => nrel_main_idtf:
+     [straight] (* <- lang_en;; *);;

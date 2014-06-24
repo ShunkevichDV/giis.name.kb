@@ -1,0 +1,7 @@
+predator <- mammal;;
+predator => nrel_main_idtf: 
+	[хищник] (* <- lang_ru;; *);;
+predator => nrel_main_idtf: 
+	[predator] (* <- lang_en;; *);;
+predator => nrel_food: 
+	animal ;;

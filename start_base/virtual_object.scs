@@ -1,0 +1,5 @@
+virtual_object <- object;;
+virtual_object => nrel_main_idtf: 
+	[виртуальный объект] (* <- lang_ru;; *);;
+virtual_object => nrel_main_idtf: 
+	[virtual object] (* <- lang_en;; *);;

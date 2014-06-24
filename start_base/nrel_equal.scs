@@ -1,0 +1,7 @@
+sc_node_norole_relation -> nrel_equal;;
+nrel_equal => nrel_main_idtf: 
+  [равно] (* <- lang_ru;; *);;
+nrel_equal => nrel_main_idtf: 
+  [equal] (* <- lang_en;; *);;
+nrel_equal <- value;;
+nrel_equal <- this;;

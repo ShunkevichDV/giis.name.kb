@@ -1,0 +1,5 @@
+greek <- human;;
+greek => nrel_main_idtf: 
+	[грек] (* <- lang_ru;; *);;
+greek => nrel_main_idtf: 
+	[greek] (* <- lang_en;; *);;

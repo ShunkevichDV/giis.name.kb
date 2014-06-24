@@ -1,0 +1,5 @@
+square <- rectangle;;
+square => nrel_main_idtf:
+     [квадрат] (* <- lang_ru;; *);;
+square => nrel_main_idtf:
+     [square] (* <- lang_en;; *);;

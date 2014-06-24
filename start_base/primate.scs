@@ -1,0 +1,9 @@
+primate <- mammal;;
+primate => nrel_main_idtf: 
+	[примат] (* <- lang_ru;; *);;
+primate => nrel_main_idtf: 
+	[primate] (* <- lang_en;; *);;
+primate => nrel_food: 
+	animal ;;
+primate => nrel_food: 
+	herb ;;

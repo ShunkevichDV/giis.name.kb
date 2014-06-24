@@ -1,0 +1,4 @@
+mind => nrel_main_idtf: 
+	[разум] (* <- lang_ru;; *);;
+mind => nrel_main_idtf: 
+	[mind] (* <- lang_en;; *);;

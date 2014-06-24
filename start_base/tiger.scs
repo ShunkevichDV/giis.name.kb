@@ -1,0 +1,6 @@
+tiger => nrel_main_idtf: [тигр] (* <- lang_ru;; *);;
+
+tiger => nrel_main_idtf: 
+	[tiger] (* <- lang_en;; *);;
+
+tiger <- catlike;;

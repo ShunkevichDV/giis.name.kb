@@ -1,0 +1,4 @@
+leaf => nrel_main_idtf:
+     [лист] (* <- lang_ru;; *);;
+leaf  => nrel_main_idtf:
+     [leaf] (* <- lang_en;; *);;

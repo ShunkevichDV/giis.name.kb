@@ -1,0 +1,5 @@
+means => nrel_main_idtf: 
+  [средство] (* <- lang_ru;; *);;
+means => nrel_main_idtf: 
+  [means] (* <- lang_en;; *);;
+means <- action;;

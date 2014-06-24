@@ -1,0 +1,5 @@
+planet <- solar_system;;
+planet => nrel_main_idtf: 
+	[планета] (* <- lang_ru;; *);;
+planet => nrel_main_dtf: 
+	[planet] (* <- lang_en;; *);;

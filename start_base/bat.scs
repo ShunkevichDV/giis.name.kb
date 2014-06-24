@@ -1,0 +1,7 @@
+bat <- mammal;;
+bat => nrel_main_idtf: 
+	[летучая_мышь] (* <- lang_ru;; *);;
+bat => nrel_main_idtf: 
+	[bat] (* <- lang_en;; *);;
+bat => nrel_have: 
+	wing ;;

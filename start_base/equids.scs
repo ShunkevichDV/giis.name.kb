@@ -1,0 +1,5 @@
+equids <- hoofed;;
+equids => nrel_main_idtf: 
+	[непарнокопытное] (* <- lang_ru;; *);;
+equids => nrel_main_idtf: 
+	[equids] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+green <- color;;
+green => nrel_main_idtf:
+     [зелёный] (* <- lang_ru;; *);;
+green => nrel_main_idtf:
+     [green] (* <- lang_en;; *);;

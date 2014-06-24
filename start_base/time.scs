@@ -1,0 +1,5 @@
+time => nrel_main_idtf: 
+  [время] (* <- lang_ru;; *);;
+time => nrel_main_idtf: 
+  [time] (* <- lang_en;; *);;
+time <- universe;;

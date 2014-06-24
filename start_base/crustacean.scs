@@ -1,0 +1,6 @@
+crustacean => nrel_main_idtf: 
+	[ракообразное] (* <- lang_ru;; *);;
+crustacean => nrel_main_idtf: 
+	[crustacean] (* <- lang_en;; *);;
+
+crustacean <- arthropod;;

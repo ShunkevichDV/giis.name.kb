@@ -1,0 +1,6 @@
+rat => nrel_main_idtf: [крыса] (* <- lang_ru;; *);;
+
+rat => nrel_main_idtf: 
+	[rat] (* <- lang_en;; *);;
+rat <- rodent;;
+

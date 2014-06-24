@@ -1,0 +1,7 @@
+limitation => nrel_main_idtf: 
+	[срок] (* <- lang_ru;; *);;
+limitation => nrel_main_idtf: 
+	[limitation] (* <- lang_en;; *);;
+
+limitation <- time;;
+limitation <- amount;;

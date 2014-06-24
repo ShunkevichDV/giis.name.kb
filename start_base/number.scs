@@ -1,0 +1,7 @@
+//????????????????????
+//хз что тут. это не моё
+number => nrel_main_idtf: 
+  [число] (* <- lang_ru;; *);;                                                        
+number => nrel_main_idtf: 
+  [number] (* <- lang_en;; *);;
+number => nrel_have: value;;

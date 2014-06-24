@@ -1,0 +1,7 @@
+panther => nrel_main_idtf: [пантера] (* <- lang_ru;; *);;
+
+panther => nrel_main_idtf: 
+	[panther] (* <- lang_en;; *);;
+
+panther <- catlike;;
+

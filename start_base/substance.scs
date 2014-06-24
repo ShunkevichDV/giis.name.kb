@@ -1,0 +1,5 @@
+substance => nrel_main_idtf: 
+  [вещество] (* <- lang_ru;; *);;
+substance => nrel_main_idtf: 
+  [substance] (* <- lang_en;; *);;
+substance <- material_object;;

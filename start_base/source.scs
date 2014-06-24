@@ -1,0 +1,7 @@
+source => nrel_main_idtf: 
+	[источник] (* <- lang_ru;; *);;
+source => nrel_main_idtf: 
+	[source] (* <- lang_en;; *);;
+
+source <- place;;
+source <- rezult;;

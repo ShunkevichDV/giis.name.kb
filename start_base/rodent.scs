@@ -1,0 +1,5 @@
+rodent <- mammal;;
+rodent => nrel_main_idtf: 
+	[грызун] (* <- lang_ru;; *);;
+rodent => nrel_main_idtf: 
+	[rodent] (* <- lang_en;; *);;

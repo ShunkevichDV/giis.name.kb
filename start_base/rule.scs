@@ -1,0 +1,5 @@
+rule => nrel_main_idtf: 
+  [правило] (* <- lang_ru;; *);;
+rule => nrel_main_idtf: 
+  [rule] (* <- lang_en;; *);;
+rule <- char;;

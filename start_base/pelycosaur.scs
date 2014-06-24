@@ -1,0 +1,6 @@
+pelycosaur => nrel_main_idtf: 
+	[пеликозавр] (* <- lang_ru;; *);;
+pelycosaur => nrel_main_idtf: 
+	[pelycosaur] (* <- lang_en;; *);;
+
+pelycosaur <- reptile;;

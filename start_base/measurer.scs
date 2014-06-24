@@ -1,0 +1,5 @@
+measurer <- instrument;;
+measurer => nrel_main_idtf:
+     [измеритель] (* <- lang_ru;; *);;
+measurer => nrel_main_idtf:
+     [measurer] (* <- lang_en;; *);;

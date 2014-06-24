@@ -1,0 +1,5 @@
+energy <- property;;
+energy => nrel_main_idtf:
+     [энергия] (* <- lang_ru;; *);;
+energy => nrel_main_idtf:
+     [energy] (* <- lang_en;; *);;

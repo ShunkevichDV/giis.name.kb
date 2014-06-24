@@ -1,0 +1,5 @@
+clothes <- artificial;;
+clothes => nrel_main_idtf: 
+	[одежда] (* <- lang_ru;; *);;
+clothes => nrel_main_idtf: 
+	[clothes] (* <- lang_en;; *);;

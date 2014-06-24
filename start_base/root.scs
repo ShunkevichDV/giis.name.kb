@@ -1,0 +1,4 @@
+root => nrel_main_idtf:
+     [корень] (* <- lang_ru;; *);;
+root => nrel_main_idtf:
+     [root] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+reason => nrel_main_idtf: 
+  [причина] (* <- lang_ru;; *);;
+reason => nrel_main_idtf: 
+  [reason] (* <- lang_en;; *);;
+reason <- char;;

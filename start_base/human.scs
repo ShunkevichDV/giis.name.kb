@@ -1,0 +1,12 @@
+human <- hominid;;
+human => nrel_main_idtf: 
+	[человек] (* <- lang_ru;; *);;
+human => nrel_main_idtf: 
+	[human] (* <- lang_en;; *);;
+sc_node_norole_relation -> nrel_create;;
+human => nrel_create: 
+	civilization ;;
+human => nrel_create: 
+	artificial ;;
+human => nrel_have: 
+	mind ;;

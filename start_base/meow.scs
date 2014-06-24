@@ -1,0 +1,6 @@
+meow => nrel_main_idtf: 
+	[мяу] (* <- lang_ru;; *);;
+meow => nrel_main_idtf: 
+	[meow] (* <- lang_en;; *);;
+emotion -> meow ;;
+

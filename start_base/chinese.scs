@@ -1,0 +1,5 @@
+chinese <- human;;
+chinese => nrel_main_idtf: 
+	[китаец] (* <- lang_ru;; *);;
+chinese => nrel_main_idtf: 
+	[chinese] (* <- lang_en;; *);;

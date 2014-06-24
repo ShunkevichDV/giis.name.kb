@@ -1,0 +1,5 @@
+lift <- transport;;
+lift => nrel_main_idtf:
+     [подъемник] (* <- lang_ru;; *);;
+lift => nrel_main_idtf:
+     [lift] (* <- lang_en;; *);;

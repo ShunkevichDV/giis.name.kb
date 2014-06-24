@@ -1,0 +1,5 @@
+fortress <- building;;
+fortress => nrel_main_idtf:
+     [крепость] (* <- lang_ru;; *);;
+fortress => nrel_main_idtf:
+     [fortress] (* <- lang_en;; *);;

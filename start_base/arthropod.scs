@@ -1,0 +1,9 @@
+arthropod => nrel_main_idtf: 
+	[членистоногое] (* <- lang_ru;; *);;
+arthropod => nrel_main_idtf: 
+	[enarthropod] (* <- lang_en;; *);;
+
+arthropod <- coelenterates;;
+sc_node_norole_relation-> nrel_have;; 
+arthropod => nrel_have: 
+	limb ;;

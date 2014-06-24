@@ -1,0 +1,6 @@
+micro_body => nrel_main_idtf: 
+	[микро тело] (* <- lang_ru;; *);;
+micro_body => nrel_main_idtf: 
+	[micro body] (* <- lang_en;; *);;
+
+micro_body <- substance;;

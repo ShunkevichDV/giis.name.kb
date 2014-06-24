@@ -1,0 +1,5 @@
+walrus <- predator;;
+walrus => nrel_main_idtf: 
+	[моржовое] (* <- lang_ru;; *);;
+walrus => nrel_main_idtf: 
+	[walrus] (* <- lang_en;; *);;

@@ -1,0 +1,9 @@
+elasmobranchs => nrel_main_idtf: 
+	[акулообразное] (* <- lang_ru;; *);;
+elasmobranchs => nrel_main_idtf: 
+	[elasmobranchs] (* <- lang_en;; *);;
+
+elasmobranchs <- krupnorotoe;;
+
+elasmobranchs => nrel_inhabit: 
+	water ;;

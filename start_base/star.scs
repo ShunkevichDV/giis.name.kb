@@ -1,0 +1,5 @@
+star <- solar_system;;
+star => nrel_main_idtf: 
+	[звезда] (* <- lang_ru;; *);;
+star => nrel_main_idtf: 
+	[star] (* <- lang_en;; *);;

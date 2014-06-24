@@ -1,0 +1,4 @@
+color => nrel_main_idtf:
+     [цвет] (* <- lang_ru;; *);;
+color => nrel_main_idtf:
+     [color] (* <- lang_en;; *);;

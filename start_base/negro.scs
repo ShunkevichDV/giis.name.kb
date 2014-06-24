@@ -1,0 +1,5 @@
+negro <- human;;
+negro => nrel_main_idtf: 
+	[негр] (* <- lang_ru;; *);;
+negro => nrel_main_idtf: 
+	[negro] (* <- lang_en;; *);;

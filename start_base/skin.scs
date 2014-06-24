@@ -1,0 +1,7 @@
+skin => nrel_main_idtf: [кожа] (* <- lang_ru;; *);;
+
+skin => nrel_main_idtf: 
+	[skin] (* <- lang_en;; *);;
+skin <- organ;;
+skin => nrel_have: 
+	hair ;;

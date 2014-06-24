@@ -1,0 +1,7 @@
+motive => nrel_main_idtf: 
+	[мотив] (* <- lang_ru;; *);;
+motive => nrel_main_idtf: 
+	[motive] (* <- lang_en;; *);;
+
+motive <- subject;;
+motive <- action;;

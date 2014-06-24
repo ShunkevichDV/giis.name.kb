@@ -1,0 +1,8 @@
+cat => nrel_main_idtf: [кошка] (* <- lang_ru;; *);;
+
+cat => nrel_main_idtf: 
+	[cat] (* <- lang_en;; *);;
+cat <- catlike;;
+cat => nrel_have: 
+	meow;;
+

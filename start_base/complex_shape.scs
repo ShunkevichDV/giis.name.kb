@@ -1,0 +1,5 @@
+complex_shape <- volume;;
+complex_shape => nrel_main_idtf:
+     [сложная форма] (* <- lang_ru;; *);;
+complex_shape => nrel_main_idtf:
+     [complex shape] (* <- lang_en;; *);;

@@ -1,0 +1,6 @@
+indifference => nrel_main_idtf: 
+	[равнодушие] (* <- lang_ru;; *);;
+indifference => nrel_main_idtf: 
+	[indifference] (* <- lang_en;; *);;
+
+indifference <- emotion;;

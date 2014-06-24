@@ -1,0 +1,4 @@
+eyes => nrel_main_idtf: [глаза] (* <- lang_ru;; *);;
+
+eyes => nrel_main_idtf: 
+	[eyes] (* <- lang_en;; *);;

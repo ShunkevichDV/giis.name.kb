@@ -1,0 +1,5 @@
+nrel_have => nrel_main_idtf: 
+  [иметь] (* <- lang_ru;; *);;
+nrel_have => nrel_main_idtf: 
+  [have] (* <- lang_en;; *);;
+nrel_have <- relation;;

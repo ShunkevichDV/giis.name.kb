@@ -1,0 +1,11 @@
+eskalibur <- artificial_intelligence;;
+eskalibur =>nrel_have: internal_model_of_the_world;;
+eskalibur =>nrel_have: emotion;;
+eskalibur =>nrel_have: theorem;;
+eskalibur =>nrel_have: obscure_word;;
+eskalibur =>nrel_have: task;;
+eskalibur =>nrel_have: function;;
+eskalibur => nrel_main_idtf:
+     [эскалибур] (* <- lang_ru;; *);;
+eskalibur => nrel_main_idtf:
+     [eskalibur] (* <- lang_en;; *);;

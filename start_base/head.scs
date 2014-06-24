@@ -1,0 +1,13 @@
+
+head => nrel_main_idtf: [голова] (* <- lang_ru;; *);;
+
+head => nrel_main_idtf: 
+	[head] (* <- lang_en;; *);;
+head <- body;;
+head => nrel_have: 
+	eyes ;;
+head => nrel_have: 
+	mouth ;;
+
+head => nrel_have: 
+	nose ;;

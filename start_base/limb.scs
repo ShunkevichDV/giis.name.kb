@@ -1,0 +1,6 @@
+limb => nrel_main_idtf: 
+	[конечность] (* <- lang_ru;; *);;
+limb => nrel_main_idtf: 
+	[limb] (* <- lang_en;; *);;
+
+limb <- organ;;

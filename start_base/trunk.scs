@@ -1,0 +1,6 @@
+
+trunk => nrel_main_idtf: [туловище] (* <- lang_ru;; *);;
+
+trunk => nrel_main_idtf: 
+	[trunk] (* <- lang_en;; *);;
+trunk <- organ;;

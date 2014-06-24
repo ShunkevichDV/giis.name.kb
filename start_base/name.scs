@@ -1,0 +1,4 @@
+name => nrel_main_idtf: 
+  [название] (* <- lang_ru;; *);;
+name => nrel_main_idtf: 
+  [name] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+point <- flat;;
+point => nrel_main_idtf:
+     [точка] (* <- lang_ru;; *);;
+point => nrel_main_idtf:
+     [point] (* <- lang_en;; *);;

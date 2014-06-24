@@ -1,0 +1,6 @@
+virus => nrel_main_idtf: 
+	[вирус] (* <- lang_ru;; *);;
+virus => nrel_main_idtf: 
+	[virus] (* <- lang_en;; *);;
+
+virus <- solid;;

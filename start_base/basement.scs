@@ -1,0 +1,4 @@
+basement => nrel_main_idtf: 
+	[фундамент] (* <- lang_ru;; *);;
+basement => nrel_main_idtf: 
+	[basement] (* <- lang_en;; *);;

@@ -1,0 +1,4 @@
+task => nrel_main_idtf:
+     [задача] (* <- lang_ru;; *);;
+task => nrel_main_idtf:
+     [task] (* <- lang_en;; *);;

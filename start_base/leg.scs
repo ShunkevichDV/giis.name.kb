@@ -1,0 +1,6 @@
+leg => nrel_main_idtf: 
+	[нога] (* <- lang_ru;; *);;
+leg => nrel_main_idtf: 
+	[leg] (* <- lang_en;; *);;
+
+leg <- limb;;

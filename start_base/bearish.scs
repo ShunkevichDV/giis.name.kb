@@ -1,0 +1,5 @@
+bearish <- predator;;
+bearish => nrel_main_idtf: 
+	[медвежье] (* <- lang_ru;; *);;
+bearish => nrel_main_idtf: 
+	[bearish] (* <- lang_en;; *);;

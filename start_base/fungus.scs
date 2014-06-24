@@ -1,0 +1,6 @@
+fungus => nrel_main_idtf: 
+	[гриб] (* <- lang_ru;; *);;
+fungus => nrel_main_idtf: 
+	[fungus] (* <- lang_en;; *);;
+
+fungus <- living_organism;;

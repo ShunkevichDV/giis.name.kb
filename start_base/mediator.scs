@@ -1,0 +1,7 @@
+mediator => nrel_main_idtf: 
+	[посредник] (* <- lang_ru;; *);;
+mediator => nrel_main_idtf: 
+	[mediator] (* <- lang_en;; *);;
+
+mediator <- subject;;
+mediator <- means;;

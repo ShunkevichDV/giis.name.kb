@@ -1,0 +1,5 @@
+internal_model_of_the_world=>nrel_have: universe;;
+internal_model_of_the_world => nrel_main_idtf:
+     [внутренняя модель мира] (* <- lang_ru;; *);;
+internal_model_of_the_world => nrel_main_idtf:
+     [internal model of the world] (* <- lang_en;; *);;

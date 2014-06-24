@@ -1,0 +1,6 @@
+dinosaur => nrel_main_idtf: 
+	[динозавр] (* <- lang_ru;; *);;
+dinosaur => nrel_main_idtf: 
+	[dinosaur] (* <- lang_en;; *);;
+
+dinosaur <- reptile;;

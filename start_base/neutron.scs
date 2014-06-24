@@ -1,0 +1,6 @@
+neutron => nrel_main_idtf: 
+	[нейтрон] (* <- lang_ru;; *);;
+neutron => nrel_main_idtf: 
+	[neutron] (* <- lang_en;; *);;
+
+neutron <- atom;;

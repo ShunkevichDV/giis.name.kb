@@ -1,0 +1,11 @@
+living_organism => nrel_main_idtf: 
+	[живой организм] (* <- lang_ru;; *);;
+living_organism => nrel_main_idtf: 
+	[living organism] (* <- lang_en;; *);;
+
+living_organism <- solid;;
+
+living_organism => nrel_have: 
+	living_cell ;;
+living_organism => nrel_have: 
+	body ;;

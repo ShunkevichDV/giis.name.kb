@@ -1,0 +1,6 @@
+gorilla => nrel_main_idtf: [горилла] (* <- lang_ru;; *);;
+
+gorilla => nrel_main_idtf: 
+	[gorilla] (* <- lang_en;; *);;
+gorilla <- primate;;
+

@@ -1,0 +1,6 @@
+past => nrel_main_idtf: 
+  [прошлое] (* <- lang_ru;; *);;
+past => nrel_main_idtf: 
+  [past] (* <- lang_en;; *);;
+past<-time;;
+past<-initial_point;;

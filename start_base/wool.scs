@@ -1,0 +1,6 @@
+wool => nrel_main_idtf: [шерсть] (* <- lang_ru;; *);;
+
+wool => nrel_main_idtf: 
+	[wool] (* <- lang_en;; *);;
+wool <- hair;;
+

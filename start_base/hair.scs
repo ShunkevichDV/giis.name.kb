@@ -1,0 +1,5 @@
+hair => nrel_main_idtf: [волосы] (* <- lang_ru;; *);;
+
+hair => nrel_main_idtf: 
+	[hair] (* <- lang_en;; *);;
+

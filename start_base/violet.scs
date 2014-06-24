@@ -1,0 +1,5 @@
+violet <- color;;
+violet => nrel_main_idtf:
+     [фиолетовый] (* <- lang_ru;; *);;
+violet => nrel_main_idtf:
+     [violet] (* <- lang_en;; *);;

@@ -1,0 +1,6 @@
+horse => nrel_main_idtf: [лошадь] (* <- lang_ru;; *);;
+
+horse => nrel_main_idtf: 
+	[horse] (* <- lang_en;; *);;
+horse <- cloven_hoofed;;
+

@@ -1,0 +1,5 @@
+length <- size;;
+length => nrel_main_idtf:
+     [длина] (* <- lang_ru;; *);;
+length => nrel_main_idtf:
+     [length] (* <- lang_en;; *);;

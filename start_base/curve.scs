@@ -1,0 +1,5 @@
+curve <- line;;
+curve => nrel_main_idtf:
+     [кривая] (* <- lang_ru;; *);;
+curve => nrel_main_idtf:
+     [curve](* <- lang_en;; *);;

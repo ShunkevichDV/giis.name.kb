@@ -1,0 +1,4 @@
+body => nrel_main_idtf:
+     [тело] (* <- lang_ru;; *);;
+body => nrel_main_idtf:
+     [body] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+japanese <- human;;
+japanese => nrel_main_idtf: 
+	[японец] (* <- lang_ru;; *);;
+japanese => nrel_main_idtf: 
+	[japanese] (* <- lang_en;; *);;

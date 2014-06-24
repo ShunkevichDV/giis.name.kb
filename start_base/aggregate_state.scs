@@ -1,0 +1,4 @@
+aggregate_state => nrel_main_idtf: 
+	[агрегатное состояние] (* <- lang_ru;; *);;
+aggregate_state => nrel_main_idtf: 
+	[aggregate state] (* <- lang_en;; *);;

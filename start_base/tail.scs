@@ -1,0 +1,5 @@
+tail => nrel_main_idtf: [хвост] (* <- lang_ru;; *);;
+
+tail => nrel_main_idtf: 
+	[tail] (* <- lang_en;; *);;
+tail <- limb;;

@@ -1,0 +1,6 @@
+fish => nrel_main_idtf: 
+	[рыба] (* <- lang_ru;; *);;
+fish => nrel_main_idtf: 
+	[fish] (* <- lang_en;; *);;
+
+fish <- elasmobranchs;;

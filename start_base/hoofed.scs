@@ -1,0 +1,8 @@
+hoofed <- mammal;;
+hoofed => nrel_main_idtf: 
+	[копытное] (* <- lang_ru;; *);;
+hoofed => nrel_main_idtf: 
+	[hoofed] (* <- lang_en;; *);;
+sc_node_norole_relation -> nrel_food;;
+hoofed => nrel_food: 
+	herb ;;

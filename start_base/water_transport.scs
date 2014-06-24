@@ -1,0 +1,5 @@
+water_transport <- transport;;
+water_transport => nrel_main_idtf:
+     [водный транспорт] (* <- lang_ru;; *);;
+water_transport => nrel_main_idtf:
+     [water transport] (* <- lang_en;; *);;

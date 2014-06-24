@@ -1,0 +1,5 @@
+blue <- color;;
+blue => nrel_main_idtf:
+     [голубой] (* <- lang_ru;; *);;
+blue => nrel_main_idtf:
+     [blue] (* <- lang_en;; *);;

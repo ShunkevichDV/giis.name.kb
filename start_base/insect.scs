@@ -1,0 +1,6 @@
+insect => nrel_main_idtf: 
+	[насекомое] (* <- lang_ru;; *) ;;
+insect => nrel_main_idtf: 
+	[insect] (* <- lang_en;; *);;
+
+insect <- arthropod;;

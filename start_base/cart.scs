@@ -1,0 +1,5 @@
+cart <- transport;;
+cart => nrel_main_idtf:
+     [повозка] (* <- lang_ru;; *);;
+cart => nrel_main_idtf:
+     [cart] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+weapon <- instrument;;
+weapon => nrel_main_idtf:
+     [оружие] (* <- lang_ru;; *) ;;
+weapon => nrel_main_idtf:
+     [weapon] (* <- lang_en;; *);;

@@ -1,0 +1,6 @@
+marsupial_mammal => nrel_main_idtf: 
+	[сумчатое млекопитающее] (* <- lang_ru;; *);;
+marsupial_mammal => nrel_main_idtf: 
+	[marsupial mammal] (* <- lang_en;; *);;
+
+marsupial_mammal <- primitive_mammal;;

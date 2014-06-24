@@ -1,0 +1,5 @@
+hindu <- human;;
+hindu => nrel_main_idtf: 
+	[индус] (* <- lang_ru;; *);;
+hindu => nrel_main_idtf: 
+	[hindu] (* <- lang_en;; *);;

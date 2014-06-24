@@ -1,0 +1,5 @@
+nrel_relocation => nrel_main_idtf: 
+  [перемещение] (* <- lang_ru;; *);;
+nrel_relocation => nrel_main_idtf: 
+  [relocation] (* <- lang_en;; *);;
+nrel_relocation <- change;;

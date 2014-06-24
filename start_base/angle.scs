@@ -1,0 +1,5 @@
+angle <- flat;;
+angle => nrel_main_idtf:
+     [угол] (* <- lang_ru;; *);;
+angle => nrel_main_idtf:
+     [angle] (* <- lang_en;; *);;

@@ -1,0 +1,6 @@
+reptile => nrel_main_idtf: 
+	[рептилия] (* <- lang_ru;; *);;
+reptile => nrel_main_idtf: 
+	[reptile] (* <- lang_en;; *);;
+
+reptile <- amphibian;;

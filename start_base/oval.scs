@@ -1,0 +1,5 @@
+oval <- circle;;
+oval => nrel_main_idtf:
+     [овал] (* <- lang_ru;; *);;
+oval => nrel_main_idtf:
+     [oval] (* <- lang_en;; *);;

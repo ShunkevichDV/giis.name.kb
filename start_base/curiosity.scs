@@ -1,0 +1,6 @@
+curiosity => nrel_main_idtf: 
+	[любознательность] (* <- lang_ru;; *);;
+curiosity => nrel_main_idtf: 
+	[curiosity] (* <- lang_en;; *);;
+
+curiosity <- motive;;

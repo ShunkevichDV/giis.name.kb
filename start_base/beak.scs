@@ -1,0 +1,6 @@
+beak => nrel_main_idtf: [клюв] (* <- lang_ru;; *);;
+
+beak => nrel_main_idtf: 
+	[beak] (* <- lang_en;; *);;
+beak <- nose;;
+beak <- mouth;;

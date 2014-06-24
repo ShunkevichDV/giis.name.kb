@@ -1,0 +1,6 @@
+emotion <- quality;;
+emotion <- goal;;
+emotion => nrel_main_idtf:
+     [эмоция] (* <- lang_ru;; *);;
+emotion => nrel_main_idtf:
+     [emotion] (* <- lang_en;; *);;

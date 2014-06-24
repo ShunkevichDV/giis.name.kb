@@ -1,0 +1,6 @@
+sc_node_norole_relation -> nrel_include;;
+nrel_include => nrel_main_idtf: 
+  [включать] (* <- lang_ru;; *);;
+nrel_include => nrel_main_idtf: 
+  [include] (* <- lang_en;; *);;
+nrel_include <- relation;;

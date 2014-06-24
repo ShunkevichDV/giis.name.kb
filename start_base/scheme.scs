@@ -1,0 +1,5 @@
+scheme <- model;;
+scheme => nrel_main_idtf:
+     [схема] (* <- lang_ru;; *);;
+scheme => nrel_main_idtf:
+     [scheme] (* <- lang_en;; *);;

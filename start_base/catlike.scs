@@ -1,0 +1,5 @@
+catlike <- predator;;
+catlike => nrel_main_idtf: 
+	[кошачье] (* <- lang_ru;; *);;
+catlike => nrel_main_idtf: 
+	[catlike] (* <- lang_en;; *);;

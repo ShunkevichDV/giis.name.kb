@@ -1,0 +1,5 @@
+land => nrel_main_idtf: 
+	[суша] (* <- lang_ru;; *);;
+land => nrel_main_idtf: 
+	[land] (* <- lang_en;; *);;
+

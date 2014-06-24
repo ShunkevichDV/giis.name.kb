@@ -1,0 +1,5 @@
+city <- place;;
+city => nrel_main_idtf:
+     [город] (* <- lang_ru;; *);;
+city => nrel_main_idtf:
+     [city] (* <- lang_en;; *);;

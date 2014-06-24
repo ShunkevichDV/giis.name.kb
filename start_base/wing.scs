@@ -1,0 +1,5 @@
+wing => nrel_main_idtf: [крыло] (* <- lang_ru;; *);;
+
+wing => nrel_main_idtf: 
+	[wing] (* <- lang_en;; *);;
+wing <- limb;;

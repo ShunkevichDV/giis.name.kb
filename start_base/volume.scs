@@ -1,0 +1,5 @@
+volume <- shape;;
+volume => nrel_main_idtf:
+     [объёмный] (* <- lang_ru;; *);;
+volume => nrel_main_idtf:
+     [volume] (* <- lang_en;; *);;

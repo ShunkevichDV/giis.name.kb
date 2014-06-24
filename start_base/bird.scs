@@ -1,0 +1,15 @@
+bird => nrel_main_idtf: 
+	[птица] (* <- lang_ru;; *);;
+bird => nrel_main_idtf: 
+	[bird] (* <- lang_en;; *);;
+
+bird <- dinosaur;;
+sc_node_norole_relation-> nrel_can;;
+bird => nrel_can: 
+	nrel_fly ;;
+bird => nrel_have: 
+	wing ;;
+bird => nrel_have: 
+	plumage ;;
+bird => nrel_have: 
+	beak ;;

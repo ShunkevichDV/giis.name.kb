@@ -1,0 +1,5 @@
+machine <- instrument;;
+machine => nrel_main_idtf:
+     [станок] (* <- lang_ru;; *);;
+machine => nrel_main_idtf:
+     [machine] (* <- lang_en;; *);;

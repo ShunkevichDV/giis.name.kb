@@ -1,0 +1,6 @@
+place => nrel_main_idtf: 
+	[место] (* <- lang_ru;; *);;
+place => nrel_main_idtf: 
+	[place] (* <- lang_en;; *);;
+
+place <- space;;

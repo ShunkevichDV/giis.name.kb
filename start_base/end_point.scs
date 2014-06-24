@@ -1,0 +1,5 @@
+end_point => nrel_main_idtf: 
+  [цель] (* <- lang_ru;; *);;
+end_point => nrel_main_idtf: 
+  [end_point] (* <- lang_en;; *);;
+end_point <- goal;;

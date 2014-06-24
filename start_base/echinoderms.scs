@@ -1,0 +1,6 @@
+echinoderms => nrel_main_idtf: 
+	[иглокожее] (* <- lang_ru;; *);;
+echinoderms => nrel_main_idtf: 
+	[echinoderms] (* <- lang_en;; *);;
+
+echinoderms <- flagellar;;

@@ -1,0 +1,6 @@
+worm => nrel_main_idtf: 
+	[червь] (* <- lang_ru;; *);;
+worm => nrel_main_idtf: 
+	[worm] (* <- lang_en;; *);;
+
+worm <- coelenterates;;

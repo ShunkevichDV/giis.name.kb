@@ -1,0 +1,5 @@
+tool <- instrument;;
+tool => nrel_main_idtf:
+     [орудие] (* <- lang_ru;; *);;
+tool => nrel_main_idtf:
+     [tool] (* <- lang_en;; *);;

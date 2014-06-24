@@ -1,0 +1,4 @@
+nrel_can => nrel_main_idtf: 
+	[может] (* <- lang_ru;; *);;
+nrel_can => nrel_main_idtf: 
+	[can] (* <- lang_en;; *);;

@@ -1,0 +1,5 @@
+speed <- property;;
+speed => nrel_main_idtf:
+     [скорость] (* <- lang_ru;; *);;
+speed => nrel_main_idtf:
+     [speed] (* <- lang_en;; *);;
